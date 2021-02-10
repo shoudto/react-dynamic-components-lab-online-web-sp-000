@@ -1,5 +1,4 @@
-//your code here
-import React, { Component } from 'react';
+import React from 'react';
 
 class Comment extends React.Component {
     render(){
